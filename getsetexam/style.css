@@ -1,0 +1,31 @@
+#head{
+    color:rgb(255, 192, 229);
+    text-align: center;
+    background-color: salmon;
+    max-width: 300px;
+    margin-left: 5em;
+}
+#pcolor{
+    color:rgb(255, 0, 140);
+    background-color: slategray;
+    border: 0px solid ;
+    text-align: center;
+    max-width: 200px;
+    margin-left: 7em;
+    padding: 8px;
+}
+.warn{
+    color:greenyellow;
+    background-color: rgb(233, 174, 11);
+    border:0px solid skyblue;
+    max-width: 300px;
+    margin-left: 3em;
+    padding: 9px;
+}
+.primary{
+    color:green;
+    background-color: rgb(24, 172, 73);
+    max-width: 300px;
+    margin-left: 3em;
+    padding: 9px;
+}
